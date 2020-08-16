@@ -7,5 +7,5 @@ git first learning...
 
 git first learning..
 
-第2行.   Mas分支   master修改  a1分支修改  a1分支
+第2行.   Mas分支   master修改  a1分支修改  a1分支. Bug修复----
 
